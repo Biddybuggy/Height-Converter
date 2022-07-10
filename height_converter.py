@@ -1,5 +1,6 @@
 import math
 
+#Getting user choice/input
 choice = int(input("CHOICES \n1. cm to feet and inches \n2. Feet and inches to cm \nYour input: "))
 if 1 <= choice <= 2:
     #Converting cm to feet and inches
